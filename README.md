@@ -44,24 +44,11 @@ Stock-Portfolio-Tracker/
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/codealpha_tasks.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd codealpha_tasks
-```
-
-3. Run the program:
+Run the program:
 
 ```bash
 python stock_tracker.py
 ```
-
 
 ## 📄 Output File
 
